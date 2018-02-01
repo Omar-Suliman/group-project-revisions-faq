@@ -18,7 +18,7 @@ input {
 	margin-top: 5rem;
 	margin-left: auto;
 	margin-right: auto;
-	background: #f2dee3;
+	background: #ee8e56;
 	border-radius: 3px;
 	box-shadow: 0 2px 2px rgba(0,0,0,0.1);
 }
@@ -58,7 +58,7 @@ input {
 	margin: 1rem;
 	padding: 1rem;
 	border-radius: 2px;
-	background: #fff;
+	background: rgb(239, 240, 243);
 	box-shadow: 0 2px 2px rgba(0,0,0,0.1);
 }
 
@@ -84,11 +84,14 @@ input {
 	text-align: center;
 }
 .site-header .button{	
-border:4px solid rgb(247, 244, 244) ;
+border:4px solid rgb(75, 13, 75) ;
 	padding: 5px;
 }
-site-header{
-	border:4px soid rgb(5, 112, 23);
+h1{
+	border:solid rgb(114, 235, 134);
+}
+header{
+	border:6px solid rgb(87, 176, 218);
 }
 
 
