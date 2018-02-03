@@ -26,7 +26,7 @@ input {
 /* Buttons */
 .button {
 	padding: 0.25em 0.5em;
-	border: none;
+	border:none;
 	border-radius: 2px;
 	border: 1px solid rgba(0,0,0,0.1);
 	background: #db446f;
@@ -92,6 +92,9 @@ h1{
 }
 header{
 	border:6px solid rgb(87, 176, 218);
+}
+.question{
+	border:3px solid greenyellow;
 }
 
 
